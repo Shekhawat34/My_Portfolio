@@ -13,8 +13,8 @@ body{
 }
 #header{
     width: 100%;
-    height: 100vh;
-    background-image: url(https://e0.pxfuel.com/wallpapers/655/814/desktop-wallpaper-web-developer-website-thumbnail.jpg);
+    height: 90vh;
+    background-image: url(Images/wepik-export-20240208162250CMA2.jpeg);
     background-size: cover;
     background-position: center;
 }
@@ -362,7 +362,7 @@ nav .fa-solid{
 }
 @media only screen and (max-width:600px){
     #header{
-        background-image: url(Images/Phone_image.jpg);
+        background-image: url(Images/smallScreen2.jpg);
     }
     .header-txt{
         margin-top: 100%;
